@@ -1,2 +1,2 @@
 # Firstproject
-first project with python
+first project with python-data science
